@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/redux_calc2/static/js/main.0b52ff27.chunk.js",
+    "main.js.map": "/redux_calc2/static/js/main.0b52ff27.chunk.js.map",
+    "runtime~main.js": "/redux_calc2/static/js/runtime~main.b6b4608b.js",
+    "runtime~main.js.map": "/redux_calc2/static/js/runtime~main.b6b4608b.js.map",
+    "static/js/2.57035bb2.chunk.js": "/redux_calc2/static/js/2.57035bb2.chunk.js",
+    "static/js/2.57035bb2.chunk.js.map": "/redux_calc2/static/js/2.57035bb2.chunk.js.map",
+    "index.html": "/redux_calc2/index.html",
+    "precache-manifest.b4e16761b6fab8b9b6ef1949a5e495e8.js": "/redux_calc2/precache-manifest.b4e16761b6fab8b9b6ef1949a5e495e8.js",
+    "service-worker.js": "/redux_calc2/service-worker.js"
+  }
+}
