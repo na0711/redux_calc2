@@ -1,8 +1,8 @@
 import React from 'react';
 // import PropTypes from 'prop-types';
 
-const EqualBtn = ({n, onClick}) => (
-  <button onClick={onClick}>=</button>
+const EqualBtn = ({n, onClick, className}) => (
+  <button onClick={onClick} className={className}>=</button>
 );
 
 // NumBtn.propTypes = {

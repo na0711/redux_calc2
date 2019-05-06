@@ -1,7 +1,7 @@
 import React from 'react';
 
-const MultipulBtn = ({ onClick }) => (
-  <button onClick={ onClick }>*</button>
+const MultipulBtn = ({ onClick, className }) => (
+  <button onClick={ onClick } className={className}>*</button>
 );
 
 export default MultipulBtn;

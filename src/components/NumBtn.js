@@ -1,8 +1,8 @@
 import React from 'react';
 // import PropTypes from 'prop-types';
 
-const NumBtn = ({n, onClick}) => (
-  <button onClick={onClick}>{n}</button>
+const NumBtn = ({n, onClick, className}) => (
+  <button onClick={onClick} className={className}>{n}</button>
 );
 
 // NumBtn.propTypes = {
