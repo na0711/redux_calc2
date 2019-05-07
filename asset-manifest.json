@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/redux_calc2/static/css/main.0dd699ef.chunk.css",
+    "main.css": "/redux_calc2/static/css/main.1d51e714.chunk.css",
     "main.js": "/redux_calc2/static/js/main.58b90a51.chunk.js",
     "main.js.map": "/redux_calc2/static/js/main.58b90a51.chunk.js.map",
     "runtime~main.js": "/redux_calc2/static/js/runtime~main.b6b4608b.js",
@@ -8,8 +8,8 @@
     "static/js/2.67ab1676.chunk.js": "/redux_calc2/static/js/2.67ab1676.chunk.js",
     "static/js/2.67ab1676.chunk.js.map": "/redux_calc2/static/js/2.67ab1676.chunk.js.map",
     "index.html": "/redux_calc2/index.html",
-    "precache-manifest.27b62eac5abab30115cca6b13bb50653.js": "/redux_calc2/precache-manifest.27b62eac5abab30115cca6b13bb50653.js",
+    "precache-manifest.96debf7f968fa3c21d3273b51c8f0143.js": "/redux_calc2/precache-manifest.96debf7f968fa3c21d3273b51c8f0143.js",
     "service-worker.js": "/redux_calc2/service-worker.js",
-    "static/css/main.0dd699ef.chunk.css.map": "/redux_calc2/static/css/main.0dd699ef.chunk.css.map"
+    "static/css/main.1d51e714.chunk.css.map": "/redux_calc2/static/css/main.1d51e714.chunk.css.map"
   }
 }
